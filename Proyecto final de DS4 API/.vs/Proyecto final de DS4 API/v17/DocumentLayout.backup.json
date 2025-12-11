@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\WebApplication1.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\dto\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\dto\\carritodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|c:\\users\\danco\\onedrive\\documentos\\ds4 visual estudio\\proyecto-ds4\\proyecto final de ds4 api\\webapplication1\\modelos\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D285D3-1F30-49E9-A412-809B03576FD6}|WebApplication1\\Proyecto API DS4.csproj|solutionrelative:webapplication1\\modelos\\carritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T23:28:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:25:58.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:25:30.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HistorialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:25:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:21:58.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:18:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:12:11.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:57.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\ProductoDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:55.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:54.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\OrderDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\OrderDto.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:51.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarritoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\CarritoDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\DTO\\CarritoDTO.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\DTO\\CarritoDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\DTO\\CarritoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:56:36.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarritoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\CarritoCompra.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\CarritoCompra.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\CarritoCompra.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\CarritoCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:53:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\Producto.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:52:59.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "WebApplication1\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:52:34.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T22:51:56.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\danco\\OneDrive\\Documentos\\DS4 visual Estudio\\Proyecto-DS4\\Proyecto final de DS4 API\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:50:12.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
