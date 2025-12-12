@@ -18,3 +18,5 @@ Proyecto semestral correspondiente a la materia Desarrollo de Software IV, donde
 
 Este repositorio contiene la estructura, documentación y código relacionado al proyecto.
 
+## Nombre del Proyecto : La Esquina Geek (Tienda de Coleccionables)
+
